@@ -7,5 +7,5 @@ here is the table of contant
 | File          | Link|
 | ----------| ----------------------------------------------------------------------------|
 | README.MD | [README.md link](https://otator.github.io/reading-notes/)                   |
-| read1.md  | [read1.md link]()|https://github.com/otator/reading-notes/read1.md|
+| read1.md  | [read1.md link]()|https://github.com/otator/reading-notes/read1.md          |
 | my profile| [Github profile](https://github.com/otator)                                 |
