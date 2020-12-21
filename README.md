@@ -17,4 +17,4 @@ and these two of the programming laguages Im familiar with:
 | Python    | Intermidate |
 
 
-here is the link to [read1.md] (https://github.com/otator/reading-notes/blob/main/read1.md)
+here is the link to [read1.md](https://github.com/otator/reading-notes/blob/main/read1.md)
