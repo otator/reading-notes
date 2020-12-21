@@ -2,6 +2,7 @@
 #### Header 4
 
 **This is bold**
+
 *and this is italic*
 
 This is my [Github Profile](https://github.com/otator)

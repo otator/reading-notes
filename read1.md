@@ -9,4 +9,4 @@ Finally, you have to keep memorise yourself that you have a growth mindset. for 
 
 I'm capable of fixing the problem that I'm facing, but I will give some time.
 I can be more productive if just focus on the problem.
-no pain no gai
+no pain no gain
