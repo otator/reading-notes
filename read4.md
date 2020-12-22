@@ -18,8 +18,8 @@ the main page.
 there are many other tags to struct your webpage using html.
 <br>
 
-**div tag** used to divide the page into divisions 
-**p tag** to add a paragraph,
+**div** tag used to divide the page into divisions 
+**p** tag to add a paragraph,
 _You can add text directly by typing it without any tags but it is recommended to have them inside proper tags in order to refer to them later and change their style using css if needed._
 
 # HTML5
@@ -27,8 +27,8 @@ _You can add text directly by typing it without any tags but it is recommended t
 <br>
 
 In this version many elements had been added in order to divide the web page along with **div** tag.
-and these elements do pretty much the same as their names. For example **article tag** is for writing the articles
-in the web page, which mainly come in the middle of the main division, and the **aside** tag that allows to write 
+and these elements do pretty much the same as their names. For example **article** is for writing the articles
+in the web page, which mainly come in the middle of the main division, and the **aside** that allows to write 
 the content of it to the side of the page.
 **header** and **footer** tags are also *html5* tags, these tags had been found to enhance the view of the page
 where the content of these tags stays the same in all the website pages, where the these elements appear in the top and the
