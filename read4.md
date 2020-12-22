@@ -1,7 +1,7 @@
 # HTML 
 in order to have an html page first 
 you need to tell the browser what version of html you are using
-by typing the follwing statment in the top of your code ### !DOCTYPE html tag
+by typing the follwing statment in the top of your code __!DOCTYPE htm__ tag
 
 then you must encapsulate your code with html open and close tags, then every html page has two part.
 * First part is the head where your you add the title that 
