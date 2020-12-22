@@ -1,20 +1,16 @@
-# Header 1
-#### Header 4
-
-**This is bold**
-
-*and this is italic*
-
-This is my [Github Profile](https://github.com/otator)
-
-My name is AbdalQader Mhemed, I'm Communications and Computer Engineer
-
-and these two of the programming laguages Im familiar with:
-
-| Language  |   Level     |
-| --------- | ----------- |
-| Java      | Intermidate |
-| Python    | Intermidate |
+# Hello, and Welcome to my [GitHub profile](https://github.com/otator)
+## Here are the last updates of the course assignments
 
 
-here is the link to [read1.md](https://github.com/otator/reading-notes/blob/main/read1.md)
+
+
+#### My name is AbdalQader Mhemed, I'm Communications and Computer Engineer
+
+*and this is the table of content __ToC__*
+
+| File       | Link |
+|----------- |:--------------------------------------------------------------------------:|
+| README.MD  | [README.md link](https://otator.github.io/reading-notes/) |
+| read1.md   | [read1.md link](https://github.com/otator/reading-notes/blob/main/read1.md) |
+| my profile | [Github profile](https://github.com/otator) |
+| read4.md   | [read4.md link](https://github.com/otator/reading-notes/blob/main/read4.md) |
