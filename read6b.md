@@ -13,15 +13,14 @@ there are four main tasks to perform that makes a device a computer:
 A computer must have the ability to gain input from users, from the keyboard as text or numbers,
 from the microphone as voice or from the camera and other inputs.
 
- ### Store 
+### Store 
  A computer must be able to store the input data into storage like RAM or Hard Desk.
 
- ### Process
+### Process
  A computer need to do processes to the stored data.
 
- ### Output 
+### Output 
  A computer must be able to out the data as song, video, or even a webpage.
- <br>
 
 ## Binary Representation of data
 Computer only know either 1 or 0, true or false, on or off<br>
