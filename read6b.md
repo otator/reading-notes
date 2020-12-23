@@ -1,6 +1,5 @@
 # Computers
 ### Computer is a device that do computing
-<br>
 
 ## What makes a computer a computer?
 there are four main tasks to perform that makes a device a computer:
@@ -29,7 +28,7 @@ numbers, for example the letter 'A' has the number 65 representing it in order t
 this number converted to binary digits and this value became 01000001, and this number is being stored inside the memory as electrical signal. 
 this operation can be applied to all kind of data, for Example the voice data is being representing as binary by converting the frequency to numbers then to binary.
 
-## Logical Circuit
+## Logical Circuits
 Central Processing Unit **CPU** is like the brain of humans, this chip consists of many other chips, for example there is the Arithmetic Logical Unit chip **ALU** which responsible of logical operations, Instruction Registers **IR** that where the instruction is being saved to be used later, Control Unit and many other chips.<br>
 each one of these chips consists of millions of logical gates such as AND, OR, NOT, NOR and other kinds of logical gates.
 For example the AND gate has two input and one output, the out put of this gate will be 0 if on of the two inputs is zero 
