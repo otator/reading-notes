@@ -15,3 +15,4 @@
 | my profile | [Github profile](https://github.com/otator) |
 | read4.md   | [read4.md link](https://github.com/otator/reading-notes/blob/main/read4.md) |
 | read6a.md  | [read.md link](https://github.com/otator/reading-notes/blob/main/read6a.md) |
+| read6b.md  | [read.md link](https://github.com/otator/reading-notes/blob/main/read6b.md) |
