@@ -16,3 +16,4 @@
 | read4.md   | [read4.md link](https://github.com/otator/reading-notes/blob/main/read4.md)   |
 | read6a.md  | [read6a.md link](https://github.com/otator/reading-notes/blob/main/read6a.md) |
 | read6b.md  | [read6b.md link](https://github.com/otator/reading-notes/blob/main/read6b.md) |
+| read5.md   | [read5.md link](https://github.com/otator/reading-notes/blob/main/read5.md)   |
