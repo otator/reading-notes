@@ -24,7 +24,7 @@
 |----------- |:-----------------------------------------------------------------------------:|
 | README.MD  | [README.md link](https://otator.github.io/reading-notes/)                     |
 | my profile | [Github profile](https://github.com/otator)                                   |
-| read1.md   |                                                                               |
+| class-01.md| [class-01.md link](https://otator.github.io/reading-notes/class-01)           |
 | read2.md   |                                                                               |
 | read3.md   |                                                                               |
 | read4.md   |                                                                               |
