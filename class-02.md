@@ -57,7 +57,6 @@ h1, h2, h3{
 ```
 and the css for it.<br>
 
-
 ```css
 .main-paragraph{
     font-family: cursive;
@@ -86,6 +85,7 @@ css code will be<br>
 ```
 in order to have the effect of the external css code, it is a must to have the code path in html page.<br>
 where need to add **link** to the **head** tag as follow:<br>
+
 ```css
 <link href="css/example.css" type="text/css"
 rel="stylesheet" />
@@ -99,11 +99,13 @@ string, booleans, or even numbers. since the interpreter will make the decision 
 but what is the variable?<br>
 variable is just place in a memory that holds data, and it is being names to refer to this place in memory later in code and use or update its value. <br>
 to declare a variable in javascript the word **var** is being used in the front of the variable name to specify that this is a variable.
-for example.
+for example.<br>
+
 ```javascript
 var pi;
 ```
-to assign a value to a variable equal sign (**=**) is being used, for example
+to assign a value to a variable equal sign (**=**) is being used, for example.<br>
+
 ```javascript
 var pi = 3.14;
 ```
