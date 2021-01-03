@@ -22,7 +22,9 @@ Html has many other tags to manipulate text and modify it.
 ## CSS Style
 css stands for cascading style sheets.<br>
 css used to add styles to html tags. 
-and this could be done by adding inline style for example
+and this could be done by adding inline style for example.<br>
+
+
 ```html
 <h1 style="font-family:cursive;">This is h1 has different font from default</h1>
 ```
@@ -30,7 +32,9 @@ and there is internal style for html pages by adding **style** tag inside the **
 There is also another way, which is having css folder and the css files come inside it.<br>
 
 there are three main types of changing style in css by using selector and description method.<br>
-* selection by tag name, for example
+* selection by tag name, for example.<br>
+
+
 ```css
 p{
     font-family: cursive;
@@ -38,7 +42,9 @@ p{
     color: black;
 }
 ```
-it can also be more than on tag to style, and this is done by adding the desired tags separated by commas. For example
+it can also be more than on tag to style, and this is done by adding the desired tags separated by commas. For example<br>
+
+
 ```css
 h1, h2, h3{
     color:red;
