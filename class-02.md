@@ -52,9 +52,13 @@ h1, h2, h3{
 }
 ```
 * selection by class name, the requires to have the attribute class inside the tags that need to be modified. for example
+
+
 ```html
 <p class = "main-paragraph"> This is the main paragraph in the page</p>
+
 ```
+
 and the css for it.<br>
 
 ```css
