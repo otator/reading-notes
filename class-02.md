@@ -51,8 +51,7 @@ h1, h2, h3{
     font-family: fantasy;
 }
 ```
-* selection by class name, the requires to have the attribute class inside the tags that need to be modified. for example
-
+* selection by class name, the requires to have the attribute class inside the tags that need to be modified. for example.<br>
 
 ```html
 <p class = "main-paragraph"> This is the main paragraph in the page</p>
