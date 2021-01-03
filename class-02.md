@@ -55,7 +55,9 @@ h1, h2, h3{
 ```html
 <p class = "main-paragraph"> This is the main paragraph in the page</p>
 ```
-and the css for it.
+and the css for it.<br>
+
+
 ```css
 .main-paragraph{
     font-family: cursive;
@@ -67,11 +69,15 @@ in this method the same style can be applied to many tags as desired.
 
 * selection by id, this is can be applied for only one tag, since tags must be unique across the website.
 and this method also requires to have additional attribute inside the tag which is id attribute.
-for example
+for example<br>
+
+
 ```html
     <h5 id="h5-footer">contact us on email shown below.<h5>
 ```
-css code will be
+css code will be<br>
+
+
 ```css
 #h5-footer{
     font-family: monospace;;
