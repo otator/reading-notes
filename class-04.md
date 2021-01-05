@@ -12,7 +12,7 @@ The link is a value for the *href* attribute, and the **a** tag has another attr
 website in the same window or in a new window:
 
 ```html
-<a href="https://www.google.com", target="_blank">
+<a href="https://www.google.com"  target="_blank">
 ```
 Link to other pages in the same website, we should use the directory of the page that need to open, 
 if the two files in the same level, just use the name of the file. For example: <br>
