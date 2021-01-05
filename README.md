@@ -26,7 +26,7 @@
 | my profile | [Github profile](https://github.com/otator)                                   |
 | class-01.md| [class-01.md link](https://otator.github.io/reading-notes/class-01)           |
 | class-02.md| [class-02.md link](https://otator.github.io/reading-notes/class-02)           |
-| read3.md   |                                                                               |
+| class-03.md| [class-03.md link](https://otator.github.io/reading-notes/class-03)           |
 | read4.md   |                                                                               |
 | read5.md   |                                                                               |
 | read6.md   |                                                                               |
