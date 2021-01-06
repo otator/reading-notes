@@ -72,7 +72,11 @@ the *lightness* also use percentage to specify color, where 0% is white, 50% is 
 h1{
     background-color: hsl(128, 100%, 50%);
 }
+```
+
 there is also similar property to hsl with transparency which is hsla where the value ranges form 0 to 1:<br>
+
+
 ```css
 h2{
     background-color: hsla(128, 100%, 50%, 0.5);
