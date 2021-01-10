@@ -29,7 +29,7 @@
 | class-03.md| [class-03.md link](https://otator.github.io/reading-notes/class-03)           |
 | class-04.md| [class-04.md link](https://otator.github.io/reading-notes/class-04)           |
 | class-05.md| [class-05.md link](https://otator.github.io/reading-notes/class-05)           |
-| read6.md   |                                                                               |
+| class-06.md| [class-06.md link](https://otator.github.io/reading-notes/class-06)           |
 | read7.md   |                                                                               |
 | read8.md   |                                                                               |
 | read9.md   |                                                                               |
