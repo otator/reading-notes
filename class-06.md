@@ -4,8 +4,7 @@
 Variables called *properties* if they are inside an object and the *functions* become methods.<br>
 to create an object in javascript, first the name of the object, the curly brackets to determine the object block, 
 then the properties which are written as key-value, and then the methods.<br>
-**values can NOT have more than one key, since the key is unique and it is used to get the value within, but the 
-key can have more than one value, arrays for example.<br>
+**values can NOT have more than one key, since the key is unique and it is used to get the value within, but the key can have more than one value, arrays for example.**<br>
 
 Example:<br>
 
@@ -21,7 +20,7 @@ student{
 }
 ```
 
-to access object content of properties and method, simply use the object name then a dot the property/function key:<br>
+to access object content of properties and method, simply use the object name then a dot the property/method key:<br>
 
 ```javascript
 var avergae = student.GPA;
