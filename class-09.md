@@ -17,11 +17,11 @@ to create a form in html use the **form** tag, this tag has two attributes need 
 1. input text **input**.
 
 ```html
-<!-- since input fields has no content, you must specify to the user what to write in this filed, use paragraph tag for example -->
+<!-- since input fields has no content, you must specify to the user--> <br><!--what to write in this filed, use paragraph tag for example -->
 <p>Username</p>
-<!--the type is used to specify what the input filed will be for,
-change it to password for password input field-->
-<!-- the name used to identify the filed and link its dat with it, it must be unique a cross the page -->
+<!--the type is used to specify what the input filed will be for--><br>
+<!--change it to password for password input field--><br>
+<!-- the name used to identify the filed and link its dat with it--> <br> <!--it must be unique a cross the page -->
 <input type="text" name="username_filed">
 ```
 **Login Example**
@@ -29,13 +29,17 @@ change it to password for password input field-->
 <p>password  <input type="password" name="password_field"></p>
 
 2. input field **radio button**
+
+
 ```html
 <p>Choose color</p>
 <input type="radio" name="red_color" value="red">
 <input type="radio" name="blue_color" value="blue">
 <input type="radio" name="green_color" value="green">
 ```
-*checked is used to check the default value.*
+
+*checked is used to check the default value.*<br>
+
 <p>Choose color</p>
 Red
 <input type="radio" name="red_color" value="red" checked="checked">
@@ -46,7 +50,8 @@ Green
 </div>
 
 3. Drop down menu list
-uses to choose a value among many values, use the **option** tag within the **select** tag to add option to the menu
+uses to choose a value among many values, use the **option** tag within the **select** tag to add option to the menu.<br>
+
 ```html
 <p>choose the read you want
 <select name ="reads">
@@ -55,6 +60,7 @@ uses to choose a value among many values, use the **option** tag within the **se
 <option value="read3">Read3<option>
 </p>
 ```
+
 <p>choose the read you want
 <select name ="reads">
 <option value="read1">Read1</a><option>
@@ -63,12 +69,14 @@ uses to choose a value among many values, use the **option** tag within the **se
 </p>
 </select>
 <br>
+
 there are many other fields such as file fields to upload a file to the form, and submit button to submit the form once the user clicks on the enter key.<br>
 
 ### Form Validation
 html5 added validation to the input fields so that it shows warning message to the user if he forget to fill a filed, and the form won't be submitted if the field is requires input. to achieve that add the *require* attribute with 'attribute' value to the required fiele.<br>
 
 html5 also added validation for the input filed to be email, or url, and the form won't be submitted until valid email or url entered.<br>
+
 ```html
 <p>Enter Your Email: <input type="email" name="email_filed">
 <input type="submit" value="Submit">
