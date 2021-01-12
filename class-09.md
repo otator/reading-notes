@@ -54,7 +54,7 @@ Green
 uses to choose a value among many values, use the **option** tag within the **select** tag to add option to the menu.<br>
 
 ```html
-<p>choose the read you want
+<p>choose the read you want</p>
 <select name ="reads">
 <option value="read1">Read1<option>
 <option value="read2">Read2<option>
@@ -62,14 +62,14 @@ uses to choose a value among many values, use the **option** tag within the **se
 </p>
 ```
 
-<p>choose the read you want
+<p>choose the read you want</p>
 <select name ="reads">
 <option value="read1">Read1<option>
 <option value="read2">Read2<option>
 <option value="read3">Read2<option>
 </select>
-</p>
 <br>
+
 
 there are many other fields such as file fields to upload a file to the form, and submit button to submit the form once the user clicks on the enter key.<br>
 
