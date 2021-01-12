@@ -17,7 +17,8 @@ to create a form in html use the **form** tag, this tag has two attributes need 
 1. input text **input**.
 
 ```html
-<!-- since input fields has no content, you must specify to the user--> <br><!--what to write in this filed, use paragraph tag for example -->
+<!-- since input fields has no content, you must specify to the user-->
+<!--what to write in this filed, use paragraph tag for example -->
 <p>Username</p>
 <!--the type is used to specify what the input filed will be for--><br>
 <!--change it to password for password input field--><br>
@@ -63,11 +64,11 @@ uses to choose a value among many values, use the **option** tag within the **se
 
 <p>choose the read you want
 <select name ="reads">
-<option value="read1">Read1</a><option>
-<option value="read2">Read2</a><option>
-<option value="read3">Read2</a><option>
-</p>
+<option value="read1">Read1<option>
+<option value="read2">Read2<option>
+<option value="read3">Read2<option>
 </select>
+</p>
 <br>
 
 there are many other fields such as file fields to upload a file to the form, and submit button to submit the form once the user clicks on the enter key.<br>
@@ -88,7 +89,9 @@ hover the mouse over the input filed, it will show a message to tell that you mu
 <br><br>
 
 ## Lists, Tables and Forms
+
 coming soon...
 
 # JavaScript
+
 coming soon...
