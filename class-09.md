@@ -22,7 +22,8 @@ to create a form in html use the **form** tag, this tag has two attributes need 
 <p>Username</p>
 <!--the type is used to specify what the input filed will be for--><br>
 <!--change it to password for password input field--><br>
-<!-- the name used to identify the filed and link its dat with it--> <br> <!--it must be unique a cross the page -->
+<!-- the name used to identify the filed and link its dat with it-->
+<!--it must be unique a cross the page -->
 <input type="text" name="username_filed">
 ```
 **Login Example**
@@ -59,14 +60,15 @@ uses to choose a value among many values, use the **option** tag within the **se
 <option value="read1">Read1<option>
 <option value="read2">Read2<option>
 <option value="read3">Read3<option>
+</select>
 </p>
 ```
 
 <p>choose the read you want</p>
 <select name ="reads">
-<option value="read1">Read1<option>
-<option value="read2">Read2<option>
-<option value="read3">Read2<option>
+<option value="read1">Read1</option>
+<option value="read2">Read2</option>
+<option value="read3">Read2</option>
 </select>
 <br>
 
@@ -85,7 +87,7 @@ html5 also added validation for the input filed to be email, or url, and the for
 Try it: by typing random text<br>
 hover the mouse over the input filed, it will show a message to tell that you must enter email.
 <p>Enter Your Email: <input type="email" name="email_filed">
-<input type="submit" value="Submit">
+<input type="submit" value="Submit"></p>
 <br><br>
 
 ## Lists, Tables and Forms
