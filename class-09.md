@@ -49,7 +49,8 @@ Blue
 <input type="radio" name="blue_color" value="blue">
 Green
 <input type="radio" name="green_color" value="green">
-</div>
+
+
 
 3. Drop down menu list
 uses to choose a value among many values, use the **option** tag within the **select** tag to add option to the menu.<br>
@@ -73,7 +74,7 @@ uses to choose a value among many values, use the **option** tag within the **se
 <br>
 
 
-there are many other fields such as file fields to upload a file to the form, and submit button to submit the form once the user clicks on the enter key.<br>
+there are many other fields such as file field to upload a file to the form, and submit button to submit the form once the user clicks on the enter key.<br>
 
 ### Form Validation
 html5 added validation to the input fields so that it shows warning message to the user if he forget to fill a filed, and the form won't be submitted if the field is requires input. to achieve that add the *require* attribute with 'attribute' value to the required fiele.<br>
@@ -91,8 +92,7 @@ hover the mouse over the input filed, it will show a message to tell that you mu
 <br><br>
 
 ## Lists, Tables and Forms
-
-coming soon...
+list style can be changed using css 
 
 # JavaScript
 

@@ -33,7 +33,7 @@
 | class-07.md| [class-07.md link](https://otator.github.io/reading-notes/class-07)           |
 | class-08.md| [class-08.md link](https://otator.github.io/reading-notes/class-08)           |
 | class-09.md| [class-09.md link](https://otator.github.io/reading-notes/class-09)           |
-| read10.md  |                                                                               |
+| class-10.md| [class-10.md link](https://otator.github.io/reading-notes/class-10)           |
 | read11.md  |                                                                               |
 | read12.md  |                                                                               |
 | read13.md  |                                                                               |
