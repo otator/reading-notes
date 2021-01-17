@@ -50,3 +50,18 @@ keywords can be identified during these steps:
 for google search engine, use the analytic tool to know: How many people are coming to your website, What are your visitors looking at and where are your visitors coming from.
 
 to put your site on the web, you need to get domain name and web hosting.
+
+## videos and audios
+an audio can be add to the page simply by using the audio tag which has some attributes with to use:
+1. controls, this attribute used to show control panel, so that you can volume up or down, play pause and stop the video.
+2. autoplay, which plays the audio once the page opened or reloaded.
+3. mute, to mute the audio
+4. volume, to set the volume with a value from 0.0 to 1.0;
+<br><br>
+for video it is pretty much the same of an audio with some different attributes such as poster which shows an image that has been loaded before the video start playing.<br>
+the following code will show the video that below it:<br>
+
+```css
+<video src="video_1.mp4" controls></video>
+```
+<video src="video_1.mp4" controls></video>
