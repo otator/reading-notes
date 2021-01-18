@@ -35,7 +35,7 @@
 | class-09.md| [class-09.md link](https://otator.github.io/reading-notes/class-09)           |
 | class-10.md| [class-10.md link](https://otator.github.io/reading-notes/class-10)           |
 | class-11.md| [class-11.md link](https://otator.github.io/reading-notes/class-11)           |
-| read12.md  |                                                                               |
+| class-12.md| [class-12.md link](https://otator.github.io/reading-notes/class-12)           |
 | read13.md  |                                                                               |
 | read14.md  |                                                                               |
 | read15.md  |                                                                               |
