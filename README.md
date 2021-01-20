@@ -39,4 +39,3 @@
 | class-13.md| [class-13.md link](https://otator.github.io/reading-notes/class-13)           |
 | class-14-a.md| [class-14-a.md link](https://otator.github.io/reading-notes/class-14-a)     |
 | class-14-b.md| [class-14-b.md link](https://otator.github.io/reading-notes/class-14-b)     |
-| read15.md  |                                                                               |
