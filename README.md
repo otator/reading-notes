@@ -43,6 +43,9 @@
 
 ## Code 301 - Intermediate Software Development
 
-
+| File       | Link |
+|----------- |:-----------------------------------------------------------------------------:|
+| README.MD  | [README.md link](https://otator.github.io/reading-notes/)                     |
+| read-01.MD | [read-01 link](https://otator.github.io/reading-notes/read-01)                |
 
 ## Code 401 - Advanced Software Development
