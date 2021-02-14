@@ -106,4 +106,3 @@ example:<br>
     });
   });
 </script>
-</script>
