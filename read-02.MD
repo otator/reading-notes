@@ -4,7 +4,7 @@ JQuery is JavaScript library that uses the selection rules of css to get html el
 first to link the jQuery library paste the following line of code into the head of the main html page.<br>
 
 ```html
-  <script src="jquery-3.5.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 ```
 
 the **$** operator is used to select an element followed by the css selecting rule and once the elements selected many jQuery methods can be applied on it<br>
@@ -79,12 +79,12 @@ and callback function to be executed once the animation is done.<br>
 example:<br>
 
 ```javascript
-    $(function(){
+    $(function () {
     //asiging the selected element to variable to use later in code.
     let header2 = $('h2');
-    header2.attr('color','red');
-    header2.click(function(){
-      header2.fadeToggle(3000, function(){
+    header2.css('color', 'red');
+    header2.click(function () {
+      header2.fadeToggle(3000, function () {
         header2.show(4000);
       });
     });
@@ -92,17 +92,18 @@ example:<br>
 ```
 <br>
 
-<script src="jquery-3.5.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 <h2>Click me</h2>
 <script>
-  $(function(){
+  $(function () {
     //asiging the selected element to variable to use later in code.
     let header2 = $('h2');
-    header2.attr('color','red');
-    header2.click(function(){
-      header2.fadeToggle(3000, function(){
+    header2.css('color', 'red');
+    header2.click(function () {
+      header2.fadeToggle(3000, function () {
         header2.show(4000);
       });
     });
   });
+</script>
 </script>
