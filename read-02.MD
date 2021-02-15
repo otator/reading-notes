@@ -39,7 +39,7 @@ example:<br>
   $('#main-container').html('<h2>Section 1</h2>');
   $('.section3').hide();
   $('div').after('<p>in this section we will talk about...</p>');
-  let userName = $('#username').val();
+  let userName = $('#username').val(); 
 ```
 
 **Events** <br>
