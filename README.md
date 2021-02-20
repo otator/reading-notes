@@ -51,5 +51,6 @@
 | read-03.MD | [read-03 link](https://otator.github.io/reading-notes/read-03)                |
 | read-04.MD | [read-04 link](https://otator.github.io/reading-notes/read-04)                |
 | read-05.MD | [read-05 link](https://otator.github.io/reading-notes/read-05)                |
+| read-06.MD | [read-06 link](https://otator.github.io/reading-notes/read-06)                |
 
 ## Code 401 - Advanced Software Development
