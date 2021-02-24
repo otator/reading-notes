@@ -55,6 +55,8 @@
 | read-07.MD | [read-07 link](https://otator.github.io/reading-notes/read-07)                |
 | read-08.MD | [read-08 link](https://otator.github.io/reading-notes/read-08)                |
 | read-09.MD | [read-09 link](https://otator.github.io/reading-notes/read-09)                |
+| read-10.MD | [read-10 link](https://otator.github.io/reading-notes/read-10)                |
+
 
 
 
