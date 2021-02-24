@@ -11,8 +11,8 @@ A call stack is a mechanism for an interpreter (like the JavaScript interpreter 
 
 
 
- ### Debugging
- 
+### Debugging
+
 [link](https://otator.github.io/reading-notes/class-10)
 
 Running javascript code for the first time could result some errors, and not always we expect the output we want.<br>
