@@ -58,6 +58,12 @@
 | read-10.MD | [read-10 link](https://otator.github.io/reading-notes/read-10)                |
 | read-11.MD | [read-11 link](https://otator.github.io/reading-notes/read-11)                |
 | read-12.MD | [read-12 link](https://otator.github.io/reading-notes/read-12)                |
+| read-13.MD | [read-13 link](https://otator.github.io/reading-notes/read-13)                |
+| read-14a.MD| [read-14a link](https://otator.github.io/reading-notes/read-14a)              |
+| read-14b.MD| [read-14b link](https://otator.github.io/reading-notes/read-14b)              |
+| read-15.MD | [read-15 link](https://otator.github.io/reading-notes/read-15)                |
+
+
 
 
 
