@@ -71,3 +71,8 @@
 
 
 ## Code 401 - Advanced Software Development
+| File        | Link |
+|-------------|:-----------------------------------------------------------------------------:|
+| README.MD   | [README.md link](https://otator.github.io/reading-notes/)                     |
+| read_01.md  | [README.md link](https://otator.github.io/reading-notes/read_01)              |
+
