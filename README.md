@@ -74,5 +74,8 @@
 | File        | Link |
 |-------------|:-----------------------------------------------------------------------------:|
 | README.MD   | [README.md link](https://otator.github.io/reading-notes/)                     |
-| read_01.md  | [README.md link](https://otator.github.io/reading-notes/read_01)              |
-
+| read_01.md  | [read_01.md link](https://otator.github.io/reading-notes/read_01)             |
+| read_02.md  | [read_02.md link](https://otator.github.io/reading-notes/read_02)             |
+| read_03.md  | [read_03.md link](https://otator.github.io/reading-notes/read_03)             |
+| read_04.md  | [read_04.md link](https://otator.github.io/reading-notes/read_04)             |
+| read_05.md  | [read_05.md link](https://otator.github.io/reading-notes/read_05)             |
