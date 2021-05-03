@@ -2,7 +2,7 @@
 
 [Authorization](https://economictimes.indiatimes.com/definition/authorization) is a security mechanism to determine access levels or user/client privileges related to system resources including files, services, computer programs, data and application features. This is the process of granting or denying access to a network resource which allows the user access to various resources based on the user's identity.
 
-Spring boot gives us the ability to specify what access control a user has(what can he do/see), this is done by implementing the `WebSecurityConfigurerAdapter`,overrides its `configure` method and implement it the way you want for authorize users as shown in the code below:
+Spring boot gives us the ability to specify what access control a user has(what can he do/see), this is done by implementing the `WebSecurityConfigurerAdapter`, overrides its `configure` method and implement it the way you want for authorizing users as shown in the code below:
 
 ```java
   @SpringBootApplication
