@@ -93,7 +93,11 @@
 | read_17.md | [read_17.md link](https://otator.github.io/reading-notes/read_17)             |
 | read_18.md | [read_18.md link](https://otator.github.io/reading-notes/read_18)             |
 | read_19.md | [read_19.md link](https://otator.github.io/reading-notes/read_19)             |
-| read_20.md | [read_20.md link](https://otator.github.io/reading-notes/read_21)             |
-| read_21.md | [read_21.md link](https://otator.github.io/reading-notes/read_21)             |
+| read_26.md | [read_26.md link](https://otator.github.io/reading-notes/read_26)             |
+| read_27.md | [read_27.md link](https://otator.github.io/reading-notes/read_27)             |
+| read_28.md | [read_28.md link](https://otator.github.io/reading-notes/read_28)             |
+| read_29.md | [read_29.md link](https://otator.github.io/reading-notes/read_29)             |
+| read_30.md | [read_30.md link](https://otator.github.io/reading-notes/read_30)             |
+| read_31.md | [read_31.md link](https://otator.github.io/reading-notes/read_30)             |
 
 
