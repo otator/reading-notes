@@ -1,17 +1,17 @@
 # Recycler View   
 
-when large set of data that needs to be displayed whenever the user scroll up and down, it takes to mush of the memory size of the app, by creating the views, display them on the screen, and destroy them when they are nolonger on the screen, this also consume the battery power of the android device.
+when a large set of data needs to be displayed whenever the user scrolls up and down, it takes too much of the memory size of the app, by creating the views, displays them on the screen, and destroy them when they are no longer on the screen, this also consumes the battery power of the android device.
 
-Recycler view can solve the previuos problem, its job is instead of create a view for each item, it creates fews views that can be displayed on the screen, and whenever the user scroll, the views that no longer on the screen, it reuse them to display new items instead of destroy them, this imrove the application performance, and consume less power and memory.
+Recycler view can solve the previous problem, its job is instead of creating a view for each item, it creates few views that can be displayed on the screen, and whenever the user scroll, the views that no longer on the screen, it reuses them to display new items instead of destroying them, this improves the application performance, and consumes less power and memory.
 
 To implement the RecyclerView in your code you need to define a class that extends it, and override its three methods:
 * `onCreateViewHolder()`: this method is to create a view holder
 * `onBindViewHolder()`: this method is to fill the views with the data from the source
-* `getItemCount()`: this method is to tell the recycler view how much the size of the data so it knows when there are no more view to display.
+* `getItemCount()`: this method is to tell the recycler view how much the size of the data so it knows when there are no more views to display.
 
 
 
-but first you need to create the view that you will hold the date and the layout that will have the views as its children.
+but first, you need to create the view that you will hold the date and the layout that will have the views as its children.
 
 The following [code](https://developer.android.com/guide/topics/ui/layout/recyclerview#tabpanel-java) is a custom class that extends the recycler view to create dynamic and reuseable views.
 
