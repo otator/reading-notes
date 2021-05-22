@@ -98,6 +98,6 @@
 | read_28.md | [read_28.md link](https://otator.github.io/reading-notes/read_28)             |
 | read_29.md | [read_29.md link](https://otator.github.io/reading-notes/read_29)             |
 | read_30.md | [read_30.md link](https://otator.github.io/reading-notes/read_30)             |
-| read_31.md | [read_31.md link](https://otator.github.io/reading-notes/read_30)             |
+| read_31.md | [read_31.md link](https://otator.github.io/reading-notes/read_31)             |
 
 
