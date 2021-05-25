@@ -11,7 +11,7 @@ A hash table has the following terminology:
 
 * **Buckets**  A bucket is what is contained in each index of the array of the hashtable. Each index is a bucket. An index could potentially contain multiple key/value pairs if a collision occurs. each bucket is a linked list that contains many key-value pairs in case of collision.
 
-* **Collisions** when the hash result in the same index for different keys.
+* **Collisions** when the hash results in the same index for different keys.
 
 ### Structure 
 
