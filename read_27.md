@@ -9,9 +9,8 @@ When the current activity starts another, the new activity is pushed on the top 
 
 <img src="https://developer.android.com/images/fundamentals/diagram_backstack.png">
 
-</div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin: 100px 0 100px 0">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin: 30px 0 30px 0">
 <p style="width: 50%">Because the activities in the back stack are never rearranged, if your app allows users to start a particular activity from more than one activity, a new instance of that activity is created and pushed onto the stack (rather than bringing any previous instance of the activity to the top). As such, one activity in your app might be instantiated multiple times (even from different tasks), as shown in figure 3. As such, if the user navigates backward using the Back button, each instance of the activity is revealed in the order they were opened (each with their own UI state). However, you can modify this behavior if you do not want an activity to be instantiated more than once. How to do so is discussed in the later section about Managing Tasks.</p>
 <img src="https://developer.android.com/images/fundamentals/diagram_multiple_instances.png">
 
