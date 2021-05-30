@@ -1,4 +1,4 @@
-# congnito
+# Cognito
 
 to add amplify to the android app its dependencies in the `gradle.build` file
 
@@ -27,7 +27,7 @@ add the following when it prompts:
   `No, I am done.`
 
 
-to push the changes you done to the clould, execute the following command
+to push the changes you done to the cloud, execute the following command
 
 `amplify push`
 
