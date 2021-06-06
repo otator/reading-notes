@@ -106,8 +106,7 @@
 | read_36.md | [read_36.md link](https://otator.github.io/reading-notes/read_36)             |
 | read_37.md | [read_37.md link](https://otator.github.io/reading-notes/read_37)             |
 | read_38.md | [read_38.md link](https://otator.github.io/reading-notes/read_38)             |
-| read_39.md | [read_39.md link](https://otator.github.io/reading-notes/read_39)             |
-| read_40.md | [read_40.md link](https://otator.github.io/reading-notes/read_40)             |
+| read_41.md | [read_41.md link](https://otator.github.io/reading-notes/read_41)             |
 
 
 
