@@ -28,7 +28,7 @@ since you can't get user's location without his permission, so you need to ask f
   }else{
     // the permissions that the user needs to grant or reject
     // Note: you may ask for coarse location as well
-    String[] permissions = {Manifest.Manifest.permission.ACCESS_FINE_LOCATION, 1};
+    String[] permissions = {Manifest.permission.ACCESS_FINE_LOCATION, 1};
     ActivityCompat.requestPermission(this, permissions);
     // check if the user granted the permission
     if(ContextCompat.checkSelfPermission(this, permissions[0]) == PackageManager.PERMISSION_GRANTED)){
