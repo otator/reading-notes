@@ -26,9 +26,9 @@ change the `mimeType` to the type that you want your activity to handle.
 `action.SEND` is to specify that your activity will show up as an option to perform sending whenever the `ACTION_SEND` is fired and if the type matches the `mimeType`
 
 
-### What will happen if the user choses your activity?
+### What will happen if the user chooses your activity?
 
-well, you need to hanlde the intent that sent to your activity
+well, you need to handle the intent that sent to your activity
 
 to get the intent that sent to your activity use `getIntent()` method, and to get the data from the intent use `getIntent().getData()`
 
