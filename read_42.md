@@ -68,12 +68,12 @@ Get the latest know location using `getLastLocation()` method
         });
 ```
 
-you need to check if the location is null be cause this may happen in the following scenarios:
+you need to check if the location is null because this may happen in the following scenarios:
 * location turned off in the device
 * if it has not recorded a location(new device, or after factory reset)
-* if the service restarted, and did not called yet.
+* if the service restarted, and did not call yet.
 
-sometimes you may need the best estimation of the location, do so by apply the following: 
+sometimes you may need the best estimation of the location, do so by applying the following: 
 
 * Check whether the location retrieved is significantly newer than the previously fetched location.
 * Check whether the accuracy claimed by the location is better or worse than that of the previous estimate.
